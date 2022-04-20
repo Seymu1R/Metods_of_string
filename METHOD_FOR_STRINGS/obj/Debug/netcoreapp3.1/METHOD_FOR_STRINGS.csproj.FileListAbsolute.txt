@@ -1,0 +1,14 @@
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\bin\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.exe
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\bin\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.deps.json
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\bin\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.runtimeconfig.json
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\bin\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.runtimeconfig.dev.json
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\bin\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\bin\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\obj\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.csproj.AssemblyReference.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\obj\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\obj\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.AssemblyInfoInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\obj\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.AssemblyInfo.cs
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\obj\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.csproj.CoreCompileInputs.cache
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\obj\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.dll
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\obj\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.pdb
+C:\Users\Seymur\Desktop\C_SHARP projects\METHOD_FOR_STRING\METHOD_FOR_STRINGS\METHOD_FOR_STRINGS\obj\Debug\netcoreapp3.1\METHOD_FOR_STRINGS.genruntimeconfig.cache
